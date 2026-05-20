@@ -52,5 +52,5 @@ Where `com.new.package.name` is the new package name that you want for your app.
 ## Meta
 Distributed under the MIT license.
 
-[https://github.com/KANAGARAJ-M/change_package_name](https://github.com/KANAGARAJ-M/change_package_name)
+[https://github.com/bluedev-in/change_package_name](https://github.com/bluedev-in/change_package_name)
 

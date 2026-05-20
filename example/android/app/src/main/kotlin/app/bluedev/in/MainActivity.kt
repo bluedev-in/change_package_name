@@ -1,4 +1,4 @@
-package app.nocorps.org
+package app.bluedev.in
 
 import io.flutter.embedding.android.FlutterActivity
 
